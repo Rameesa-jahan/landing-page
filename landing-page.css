@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(19, 128, 128);
+    color: white;
+    
+}
+ h1 {
+    color: white;
+    text-align: center;
+    font-size:50px;
+ }
+
+ h5 {
+    justify-content: flex-start;
+    position: relative;
+ }
+h3 {
+    margin-left: 150px;
+    font-family:'fantasy';
+}
+ p {
+    margin:150px;
+    margin-top:auto;
+ }
+
+ button {
+    color: white;
+    text-align: center;
+    background-color: yellowgreen;
+    border: none;
+    padding: 15px 32px;
+   
+ }
